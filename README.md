@@ -7,3 +7,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul numpy di python yaitu:
 2. Numpy - Membuat Array
 3. Numpy - Tipe Data Untuk Array
 4. Numpy - Operasi Aritmatika Pada Array
+5. Numpy - Indexing Array dan Slicing Array 1 Dimensi
