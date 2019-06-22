@@ -10,3 +10,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul numpy di python yaitu:
 5. Numpy - Indexing Array dan Slicing Array 1 Dimensi
 6. Numpy - Indexing dan Slicing Array 2 Dimensi
 7. Numpy - Boolean Indexing
+8. Numpy - Fancy Indexing
